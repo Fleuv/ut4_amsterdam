@@ -24,8 +24,6 @@
   - [Installation](#installation)
   - [Submitting](#submitting)
 - [Changelog](#changelog)
-  - [Beta 3](#beta-3)
-  - [Beta 2](#beta-2)
 - [License](#license)
 - [Contributors](#contributors)
 - [Additional credits](#additional-credits)
